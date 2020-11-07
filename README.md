@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WadeStack)](https://github.com/WadeStack/github-readme-stats)
 <!--
 **WadeStack/WadeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
