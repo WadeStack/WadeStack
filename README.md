@@ -5,6 +5,8 @@ Hi, I'm Wade Stack, a dev from China.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WadeStack&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WadeStack&count_private=true&hide=HTML&layout=compact)
+
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{WadeStack})
 <!--
 **WadeStack/WadeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{wadestack})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
