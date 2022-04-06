@@ -4,7 +4,7 @@ Hi, I'm Wade Stack, a SDET from China.
 
 - 🔭 I’m currently working on Netease
 - 🌱 I’m currently learning Cloud Native
-- 📫 How to reach me: wadestack@outlook.com
+- 📫 How to reach me: hider2048@gmail.com
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WadeStack&show_icons=true&count_private=true)
